@@ -1,2 +1,2 @@
 # courses
-Courses (that I took) assignments.
+Courses and tutorials (that I took) assignments.
