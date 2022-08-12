@@ -1,2 +1,2 @@
 # Pandas Course
-Kagle's Pandas Course assignments.
+Kagle's Pandas Course exercises.
